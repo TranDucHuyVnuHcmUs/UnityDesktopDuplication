@@ -1,0 +1,3 @@
+[submodule "shremdup"]
+	path = shremdup
+	url = https://github.com/DiscreteTom/shremdup.git
