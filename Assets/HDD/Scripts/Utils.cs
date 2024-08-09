@@ -1,4 +1,4 @@
-namespace HyperDesktopDuplication {
+namespace UnityDesktopDuplication {
   public static class Logger {
     static string prefix = "HyperDesktopDuplication: ";
 

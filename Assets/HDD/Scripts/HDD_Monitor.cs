@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace HyperDesktopDuplication {
+namespace UnityDesktopDuplication {
   public class HDD_Monitor : MonoBehaviour {
     [DllImport("Kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
     static extern IntPtr OpenFileMapping(int dwDesiredAccess, bool bInheritHandle, string lpName);

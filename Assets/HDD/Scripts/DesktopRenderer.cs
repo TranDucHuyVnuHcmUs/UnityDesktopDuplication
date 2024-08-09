@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HyperDesktopDuplication {
+namespace UnityDesktopDuplication {
   public class DesktopRenderer : MonoBehaviour {
     public bool visible { get; private set; }
 
